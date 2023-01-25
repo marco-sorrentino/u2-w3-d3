@@ -2,6 +2,10 @@ const displayTime = document.getElementById("displayTime");
 const start = document.getElementById("start");
 let count = parseInt(sessionStorage.getItem("counterValue")) || 0;
 
+start.addEventListener("click", () => {
+  increaseCounter();
+});
+
 const increaseCounter = () => {
   setInterval(() => {
     displayTime.innerHTML = count;
@@ -9,5 +13,3 @@ const increaseCounter = () => {
     count++;
   }, 1000);
 };
-
-start.onclick = increaseCounter;
