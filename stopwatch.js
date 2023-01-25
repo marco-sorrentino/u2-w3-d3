@@ -1,6 +1,6 @@
 const displayTime = document.getElementById("displayTime");
 const start = document.getElementById("start");
-let count = sessionStorage.getItem("counterValue") || 0;
+let count = parseInt(sessionStorage.getItem("counterValue")) || 0;
 
 const increaseCounter = () => {
   setInterval(() => {
