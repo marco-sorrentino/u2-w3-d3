@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "The Weeknd",
+    "Title": "After hours",
+    "Year": 2020,
+    "sell": 8000000,
+    "genre": ["r&b", "New Wave", "Dream Pop"],
+    "singles": [
+      "Heartless",
+      "Blinding Lights",
+      "In your Eyes",
+      "Save Your Tears"
+    ]
+  },
+  {
+    "artist": "The Weeknd",
+    "Title": "Dawn FM",
+    "Year": 2022,
+    "sell": 5000000,
+    "genre": ["Synth Pop", "Dance Pop"],
+    "singles": ["Take My Breath", "Sacrifice", "Out of Time", "Less than Zero"]
+  },
+  {
+    "artist": "The Weeknd",
+    "Title": "Starboy",
+    "Year": 2016,
+    "sell": 12000000,
+    "genre": ["Pop", "R&B", "Trap"],
+    "singles": [
+      "Starboy",
+      "I Feel It Coming",
+      "Party Monster",
+      "Reminder",
+      "Rocking",
+      "Die For You",
+      "secrets"
+    ]
+  },
+  {
+    "artist": "The Weeknd",
+    "Title": "Beauty Behind the Madness",
+    "Year": 2015,
+    "sell": 15000000,
+    "genre": ["Pop", "Alternative R&B"],
+    "singles": [
+      "Often",
+      "The Hills",
+      "Can't Feel My Face",
+      "In the Night",
+      "Acquainted"
+    ]
+  },
+  {
+    "artist": "The Weeknd",
+    "Title": "Kiss Land",
+    "Year": 2013,
+    "sell": 4000000,
+    "genre": ["Dark Wave", "R&B"],
+    "singles": [
+      "Kiss Land",
+      "Belong to the World",
+      "Love in the Sky",
+      "Pretty",
+      "Wanderlust"
+    ]
+  }
+]
